@@ -13,10 +13,10 @@ has the value of x.
 8. Write a program to accept the principal amount, rate of interest, and duration from the user. Calculate the
 interest amount and the total amount (principal + interest).
 9. Write a program to sort three numbers using if-elif-else.
-10. Write a program to calculate simple interest with the following conditions:
-• If the principal amount is less than 2,00,000 the interest rate is 10%.
-• If the principal amount is 2,00,000 -10,00,000 the interest rate is 12%.
-• If the principal amount is greater than 10,00,000 the interest rate is 15%.
+10. Write a program to calculate simple interest with the following conditions:<br>
+• If the principal amount is less than 2,00,000 the interest rate is 10%.<br>
+• If the principal amount is 2,00,000 -10,00,000 the interest rate is 12%.<br>
+• If the principal amount is greater than 10,00,000 the interest rate is 15%.<br>
 11. Write a program to print the following patterns:<br>
    1<br>
      2, 3<br>
