@@ -24,9 +24,9 @@ interest amount and the total amount (principal + interest).
      7, 8, 9, 10<br>
      11, 12, 13, 14, 15<br>
     <br>
-    ![alt text](image.png)
+    
  <br>
- 
+
 12. Write a program using a while loop to print all the odd numbers within a given range.
 13. Write a program to compute the GCD of two integer numbers.
 14. Write a program to print the decimal equivalents of 1/2, 1/3, 1/4,. ........................... , 1/10 using for loop.
