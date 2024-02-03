@@ -24,9 +24,7 @@ interest amount and the total amount (principal + interest).
      7, 8, 9, 10<br>
      11, 12, 13, 14, 15<br>
     <br>
-    
- <br>
-
+    ![Screenshot 2024-02-03 165426](https://github.com/abhrajit2004/Python-Lab-Assignment/assets/116187246/12fc4662-0dc4-4d8f-8cb1-0fa8844a386b)
 12. Write a program using a while loop to print all the odd numbers within a given range.
 13. Write a program to compute the GCD of two integer numbers.
 14. Write a program to print the decimal equivalents of 1/2, 1/3, 1/4,. ........................... , 1/10 using for loop.
